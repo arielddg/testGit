@@ -14,6 +14,7 @@ pip install foobar
 
 ```python
 import foobar
+import numpy
 
 # returns 'words'
 foobar.pluralize('word')
