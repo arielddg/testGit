@@ -1,3 +1,2 @@
-esto es un ejemplo para evaluar cambios
+borro de la rama cosas
 
-ah era eso
